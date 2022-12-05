@@ -1,0 +1,4 @@
+{
+     "extend": "near-sdk-as/asconfig.json"
+
+}

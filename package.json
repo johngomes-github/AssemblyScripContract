@@ -1,0 +1,22 @@
+{
+  "name": "assemblyscripcontract",
+  "version": "1.0.0",
+  "description": "myFirstSmartContract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngomes-github/AssemblyScripContract.git"
+  },
+  "author": "john gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngomes-github/AssemblyScripContract/issues"
+  },
+  "homepage": "https://github.com/johngomes-github/AssemblyScripContract#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
